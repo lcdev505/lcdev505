@@ -2,7 +2,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="300" src="./src/b7f5b92b0a3aa4b2a58cbe8a4232ab7a.jpg"  />
 
 ###
 
@@ -10,9 +10,7 @@
   Graduado em Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida. Desenvolvedor Back End com experiência em Python e Django, mas sempre estudando outras linguagens do mercado. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 </p>
 
-<h2 data-importer="text" align="left">My Stack:</h2>
-
-###
+<h2 align="left">My Stack:</h2>
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
@@ -42,14 +40,10 @@
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
 </div>
 
-###
-
 <h2 data-importer="text" align="left">Contact with me:</h2>
 
-###
-
 <div data-importer="socials" align="left">
-  <a href="lcsg2103@gmail.com" target="_blank">
+  <a href="mailto:lcsg2103@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/lucas-gomes-002373274/" target="_blank">
@@ -73,5 +67,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lcdev505/lcdev505/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lcdev505/lcdev505/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
-###
