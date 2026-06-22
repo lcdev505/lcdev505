@@ -10,7 +10,7 @@
   Graduado em Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida. Desenvolvedor Back End com experiência em Python e Django, mas sempre estudando outras linguagens do mercado. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 </p>
 
-<h2 align="left">My Stack:</h2>
+<h3 align="left">My Stack:</h3>
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
@@ -40,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
 </div>
 
-<h2 data-importer="text" align="left">Contact with me:</h2>
+<h3 align="left">Contact with me:</h3>
 
 <div data-importer="socials" align="left">
   <a href="mailto:lcsg2103@gmail.com" target="_blank">
